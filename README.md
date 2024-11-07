@@ -1,13 +1,3 @@
-### Issue Explanation
-
-The README file currently provides quantitative results for the LSTM-based word segmentation models for Thai and Burmese. However, it lacks qualitative examples that demonstrate how these models perform in practice. Including examples can help users understand the strengths and weaknesses of the models, especially when compared to existing algorithms like ICU.
-
-### Changes to the README
-
-Below are the changes made to the README to include qualitative examples for Thai word segmentation:
-
----
-
 ## LSTM-based Model for Word Segmentation
 Author: Sahand Farhoodi (sahandfr@gmail.com, sahand.farhoodi93@gmail.com)
 
